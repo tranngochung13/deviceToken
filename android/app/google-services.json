@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "410492062568",
+    "firebase_url": "https://backpacker-53b52.firebaseio.com",
+    "project_id": "backpacker-53b52",
+    "storage_bucket": "backpacker-53b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410492062568:android:46c32fae4e4848ef02a4dd",
+        "android_client_info": {
+          "package_name": "com.backpacker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410492062568-s74fbqs31qgrk05jt4969htd8uj1rjk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eGM36ib1MkmQL5BlohwofmxpE35M8kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410492062568-s74fbqs31qgrk05jt4969htd8uj1rjk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:410492062568:android:44f22f2d3aba5ea102a4dd",
+        "android_client_info": {
+          "package_name": "com.backpakers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "410492062568-s74fbqs31qgrk05jt4969htd8uj1rjk2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7eGM36ib1MkmQL5BlohwofmxpE35M8kI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "410492062568-s74fbqs31qgrk05jt4969htd8uj1rjk2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
